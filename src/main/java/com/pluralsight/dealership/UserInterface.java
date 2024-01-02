@@ -41,7 +41,7 @@ public class UserInterface {
     }
 
     public void display() {
-        System.out.println("\u001B[1mWelcome to the Dealership Management System!\u001B[0m");
+        System.out.println("\u001B[1mWelcome to PJ Dealership Management System!\u001B[0m");
         init(); //Loading the dealership
         int choice;
 

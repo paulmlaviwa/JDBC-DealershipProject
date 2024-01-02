@@ -1,7 +1,5 @@
 package com.pluralsight.dealership;
 
-import java.util.ArrayList;
-
 public class Vehicle {
     private int vin;
     private int year;

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c25aff49-d058-4773-b76c-54fcad435bb7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/dealership/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/dealership/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/dealership/Dealership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/dealership/DealershipFileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/inventory.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
